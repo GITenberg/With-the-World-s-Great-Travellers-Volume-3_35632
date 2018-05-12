@@ -1,0 +1,45 @@
+_repo: With-the-World-s-Great-Travellers-Volume-3_35632
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+  - agent_name: Leigh, Oliver Herbrand Gordon
+    alias: Leigh, Oliver H. G.
+    gutenberg_agent_id: '37847'
+    url: http://www.gutenberg.org/2009/agents/37847
+description: ''
+gutenberg_issued: '2011-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+tableOfContents: London, Glasgow, Dublin, Manchester, Liverpool / Oliver H. G. Leigh
+  -- Kenilworth and Warwick Castles / Elihu Burritt -- Windsor Forest and Castle /
+  Anonymous -- The Aspect of London / Hippolyte Taine -- Westminster Abbey / Nathaniel
+  Hawthorne -- The Gardens at Kew / Julian Hawthorne -- Chatsworth Castle / John Leyland
+  -- King Arthur's Land / J. Young -- The English Lake District / Amelia Barr -- The
+  Roman Wall of Cumberland / Rose G. Kingsley -- English Rural Scenery / Sarah B.
+  Wister -- The "Old Town" of Edinburgh / Robert Louis Stevenson -- In the Land of
+  Rob Roy / Nathaniel P. Willis -- The Island of Staffa and Fingal's Cave / Beriah
+  Botfield -- Ireland and Its Capital / Matthew Woods, M. D. -- From Cork to Killarney
+  / Sara J. Lippincott -- North of Ireland Scenes / W. George Beers -- Paris and Its
+  Attractions / Harriet Beecher Stowe -- Travel in France Fifty Years Ago / Charles
+  Dickens -- From Normandy to Provence / Donald G. Mitchell -- A French Farmer's Paradise
+  / M. Bentham-Edwards -- Cordova and Its Mosque / S. P. Scott -- The Spanish Bull-Fight
+  / Joseph Moore -- Seville, the Queen of Andalusia / S. P. Scott -- Street Scenes
+  in Genoa / Augusta Marryat -- The Alhambra / S. P. Scott.
+title: With the World's Great Travellers, Volume 3
+url: http://www.gutenberg.org/ebooks/35632
